@@ -26,8 +26,8 @@ def connect_to_mysql(host, user, password, database):
 
 # Test the function
 host = "localhost"  # Replace with your MySQL host
-user = "kunald"  # Replace with your MySQL username
-password = "test123"  # Replace with your MySQL password
+user = "root"  # Replace with your MySQL username
+password = "Kunal3110kk"  # Replace with your MySQL password
 database = "db"  # Replace with your MySQL database name
 
 connect_to_mysql(host, user, password, database)
